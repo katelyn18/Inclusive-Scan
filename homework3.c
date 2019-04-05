@@ -1,8 +1,5 @@
 /*
-Katelyn Jaing
-Melissa Riddle
-CPSC 479-01
-Homework 3: Inclusive Scan
+Inclusive Scan
 */
 #include <stdio.h>
 #include <mpi.h>
